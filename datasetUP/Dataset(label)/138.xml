@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>138.jpg</filename>
+	<path>D:\SKRIPSI\Dataset(label)\train\138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mold_bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>65</ymin>
+			<xmax>214</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
